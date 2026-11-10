@@ -1,5 +1,7 @@
 # Single-File-Web-Apps
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
+
 This is a list of Single-File Web Apps (apps that are made of a single `.html` file with all dependencies embedded). If you know of any other SFWAs, please edit this list and submit an MR!
 
 
@@ -24,3 +26,7 @@ afternoon, a contribution keeps the next one coming — any amount, or none.
 | **Books** | [the author's other work](https://www.amazon.com/stores/author/B08ZT331LY/allbooks) |
 | **Elsewhere** | [all projects](https://drsamonline.github.io/) |
 | **Email** | [sohilmomin2000@gmail.com](mailto:sohilmomin2000@gmail.com) — bugs, corrections, requests |
+
+## Licence
+
+MIT. Copyright © 2026 Dr Sohil Momin. See [LICENSE](LICENSE).
